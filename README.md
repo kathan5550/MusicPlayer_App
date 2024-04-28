@@ -118,4 +118,11 @@ ExoPlayer: ExoPlayer is used for audio playback, providing advanced features and
 <img width="150" alt="FavScreen" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/c65ff8c0-3677-4f36-8044-28ec1eccb906">
 <img width="150" alt="Screenshot 2024-04-28 at 12 00 32 PM" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/5f2b8f7c-1ce1-4511-bb65-0d206232738f">
 
+## License
+This project is licensed under the MIT License.
+
+## Contact
+Name: Kathan Patel
+Email: kathanpatel63548@gmail.com
+LinkedIn Profile: https://www.linkedin.com/in/kathan-patel-b07446237/
 
