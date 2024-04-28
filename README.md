@@ -116,5 +116,6 @@ ExoPlayer: ExoPlayer is used for audio playback, providing advanced features and
 <img width="150" alt="AllTimeHit" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/b9af09ab-49be-4aff-bae1-26863bdc595d">
 <img width="150" alt="HotTracks" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/e912768f-daf1-4b41-80ba-5b6c8ee7acda">
 <img width="150" alt="FavScreen" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/c65ff8c0-3677-4f36-8044-28ec1eccb906">
+<img width="150" alt="Screenshot 2024-04-28 at 12 00 32 PM" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/5f2b8f7c-1ce1-4511-bb65-0d206232738f">
 
 
