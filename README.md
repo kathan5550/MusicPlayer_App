@@ -79,14 +79,14 @@ The logout process starts when the user initiates the logout action through a de
 * Once the database is created, you can configure security rules to control access to your data. Update these rules based on your app's requirements.
 
 ### Configuring Firebase Storage:
-*In the Firebase Console, navigate to the "Storage" section.
-*Click on "Get Started" and follow the prompts to set up Cloud Storage.
-*Choose your default storage location and configure security rules to control access to your files. Start with public read access for development purposes.
+* In the Firebase Console, navigate to the "Storage" section.
+* Click on "Get Started" and follow the prompts to set up Cloud Storage.
+* Choose your default storage location and configure security rules to control access to your files. Start with public read access for development purposes.
 
 ### Adding Configuration Files:
 
 * For Android:
-Download the google-services.json file from the Firebase Console for your project.
+Download the google-services.json file from the Firebase Console for your project."\n"
 Place the google-services.json file in the app directory of your Android project.
 
 * For iOS:
