@@ -122,7 +122,7 @@ ExoPlayer: ExoPlayer is used for audio playback, providing advanced features and
 This project is licensed under the MIT License.
 
 ## Contact
-Name: Kathan Patel
-Email: kathanpatel63548@gmail.com
-LinkedIn Profile: https://www.linkedin.com/in/kathan-patel-b07446237/
+Name: Kathan Patel<br>
+Email: kathanpatel63548@gmail.com<br>
+LinkedIn Profile: https://www.linkedin.com/in/kathan-patel-b07446237/<br>
 
