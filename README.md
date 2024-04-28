@@ -103,18 +103,18 @@ ExoPlayer: ExoPlayer is used for audio playback, providing advanced features and
 <img width="150" alt="Firstpage" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/49828079-f09c-4c04-ba54-1eebba53d024">
 <img width="150" alt="Signin" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/cac54e79-fc30-4390-bebf-744452242b5b">
 <img width="150" alt="Signup" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/aa3d6c40-8e67-4ab8-be0f-dfb7efa6ce25">
-<img width="275" alt="HomeScreen1" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/b7d25b6b-6eb7-45da-9101-d3a992a8f354">
-<img width="275" alt="HomeScreen2" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/a5862852-b745-44b9-a001-972b1ec5bf96">
-<img width="271" alt="Screenshot 2024-04-28 at 11 52 09 AM" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/b874f17f-ebfe-4750-92f5-8cd772ff9cbc">
-<img width="272" alt="MusicCategories" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/1ea95264-b279-4916-96ee-39c1e3487440">
-<img width="271" alt="PlyerScreen" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/e2f68620-f87c-4abf-a288-30dbf3271fc1">
-<img width="270" alt="Artistscreen" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/065b5f0a-2356-483c-a4b5-2904e37f6fab">
-<img width="274" alt="ArtistInfo" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/1c15093f-9ed1-4bbf-8117-66b706207f1c">
-<img width="275" alt="MadeForYou" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/b6dea350-5704-450c-bb5a-db0f0e5ff174">
-<img width="276" alt="Mostlypaid" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/b000d611-f9a2-4d90-8bd6-968831cdd93e">
-<img width="270" alt="AllTimeHit" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/b9af09ab-49be-4aff-bae1-26863bdc595d">
-<img width="273" alt="HotTracks" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/e912768f-daf1-4b41-80ba-5b6c8ee7acda">
-<img width="269" alt="FavScreen" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/c65ff8c0-3677-4f36-8044-28ec1eccb906">
-<img width="272" alt="UserProfile" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/a2a29aab-4d9f-4cdb-bf15-cb95df10392b">
+<img width="150" alt="HomeScreen1" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/b7d25b6b-6eb7-45da-9101-d3a992a8f354">
+<img width="150" alt="HomeScreen2" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/a5862852-b745-44b9-a001-972b1ec5bf96">
+<img width="150" alt="Screenshot 2024-04-28 at 11 52 09 AM" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/b874f17f-ebfe-4750-92f5-8cd772ff9cbc">
+<img width="150" alt="MusicCategories" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/1ea95264-b279-4916-96ee-39c1e3487440">
+<img width="150" alt="PlyerScreen" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/e2f68620-f87c-4abf-a288-30dbf3271fc1">
+<img width="150" alt="Artistscreen" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/065b5f0a-2356-483c-a4b5-2904e37f6fab">
+<img width="150" alt="ArtistInfo" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/1c15093f-9ed1-4bbf-8117-66b706207f1c">
+<img width="150" alt="MadeForYou" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/b6dea350-5704-450c-bb5a-db0f0e5ff174">
+<img width="150" alt="Mostlypaid" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/b000d611-f9a2-4d90-8bd6-968831cdd93e">
+<img width="150" alt="AllTimeHit" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/b9af09ab-49be-4aff-bae1-26863bdc595d">
+<img width="150" alt="HotTracks" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/e912768f-daf1-4b41-80ba-5b6c8ee7acda">
+<img width="150" alt="FavScreen" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/c65ff8c0-3677-4f36-8044-28ec1eccb906">
+<img width="150" alt="UserProfile" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/a2a29aab-4d9f-4cdb-bf15-cb95df10392b">
 
 
