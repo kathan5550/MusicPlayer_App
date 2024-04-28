@@ -99,10 +99,10 @@ Third-Party Libraries/Frameworks
 ExoPlayer: ExoPlayer is used for audio playback, providing advanced features and customization options to enhance the user experience.
 
 ## App Visuals
-<img width="275" alt="SplashScreen" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/deb564f5-ea01-4136-b8b8-c66693303f3f">
-<img width="275" alt="Firstpage" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/49828079-f09c-4c04-ba54-1eebba53d024">
-<img width="274" alt="Signin" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/cac54e79-fc30-4390-bebf-744452242b5b">
-<img width="273" alt="Signup" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/aa3d6c40-8e67-4ab8-be0f-dfb7efa6ce25">
+<img width="150" alt="SplashScreen" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/deb564f5-ea01-4136-b8b8-c66693303f3f">
+<img width="150" alt="Firstpage" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/49828079-f09c-4c04-ba54-1eebba53d024">
+<img width="150" alt="Signin" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/cac54e79-fc30-4390-bebf-744452242b5b">
+<img width="150" alt="Signup" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/aa3d6c40-8e67-4ab8-be0f-dfb7efa6ce25">
 <img width="275" alt="HomeScreen1" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/b7d25b6b-6eb7-45da-9101-d3a992a8f354">
 <img width="275" alt="HomeScreen2" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/a5862852-b745-44b9-a001-972b1ec5bf96">
 <img width="271" alt="Screenshot 2024-04-28 at 11 52 09 AM" src="https://github.com/kathan5550/MusicPlayer_App/assets/105222761/b874f17f-ebfe-4750-92f5-8cd772ff9cbc">
