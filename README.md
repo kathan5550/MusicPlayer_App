@@ -86,11 +86,11 @@ The logout process starts when the user initiates the logout action through a de
 ### Adding Configuration Files:
 
 * For Android:
-Download the google-services.json file from the Firebase Console for your project."\n"
+Download the google-services.json file from the Firebase Console for your project.<br>
 Place the google-services.json file in the app directory of your Android project.
 
 * For iOS:
-Download the GoogleService-Info.plist file from the Firebase Console for your project.
-Add the GoogleService-Info.plist file to your Xcode project.
+Download the GoogleService-Info.plist file from the Firebase Console for your project.<br>
+Add the GoogleService-Info.plist file to your Xcode project.<br>
 Make sure the file is added to all targets in your Xcode project.
 
