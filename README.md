@@ -62,6 +62,16 @@ The user interface (UI) design plays a crucial role in shaping the overall look 
 ### 12. Logout:
 The logout process starts when the user initiates the logout action through a designated UI element, such as a "Logout" button or option in the app's settings menu. This interaction signals to the app that the user wants to sign out of their account.
 
+## Technologies Used:
+
+* Kotlin
+* Firebase database
+* Exoplayer
+* Glide
+* UI/UX Design
+* Google AdMob
+* Dependency Injection Framework
+
 ## Firebase Configuration Guide:
 
 ### Setting up Firebase
