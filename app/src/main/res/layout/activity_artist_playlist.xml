@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/DarkBlue"
+    android:orientation="vertical"
+    tools:context=".ArtistPlaylist_Activity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:id="@+id/artist_img"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/artist_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Artist Name"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:layout_marginLeft="9dp"
+        android:layout_marginTop="-40dp"
+        android:textStyle="bold"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:fontFamily="@font/popinsregular"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Top Songs"
+                    android:textColor="@color/white"
+                    android:layout_marginTop="5dp"
+                    android:textSize="20dp"
+                    android:layout_marginLeft="5dp"
+                    android:textStyle="bold"/>
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp"
+                    android:layout_marginTop="2dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/baseline_arrow"/>
+
+
+
+            </LinearLayout>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/artist_recyclerview"
+                android:layout_margin="5dp" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="8dp"
+                android:background="@color/aboutBlue"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="About"
+                    android:fontFamily="@font/popinsbold"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:layout_margin="5dp"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/artist_about"
+                    android:fontFamily="@font/popinsregular"
+                    android:text="About the music artist life and history"
+                    android:textColor="@color/white"
+                    android:layout_marginTop="-8dp"
+                    android:maxLines="7"
+                    android:layout_marginLeft="5dp"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="HOME TOWN"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:fontFamily="@font/popinsbold"
+                    android:textColor="@color/white"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="20dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/artist_hometown"
+                    android:text="toronto"
+                    android:layout_marginTop="-4dp"
+                    android:fontFamily="@font/popinsregular"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="@color/white"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Born"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:fontFamily="@font/popinsbold"
+                    android:textColor="@color/white"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="20dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/artist_born"
+                    android:fontFamily="@font/popinsregular"
+                    android:text="january 2,1989"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="-4dp"
+                    android:textColor="@color/white"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Gener"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:fontFamily="@font/popinsbold"
+                    android:textColor="@color/white"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="20dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/artist_gener"
+                    android:text="hip-hop"
+                    android:fontFamily="@font/popinsregular"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="-4dp"
+                    android:layout_marginBottom="20dp"
+                    android:textColor="@color/white"/>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+
+
+    </ScrollView>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/DarkBlue"
+    tools:context=".MadeForYou_Activity">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/gif_backimg"
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/backgif2"/>
+
+        <TextView
+            android:id="@+id/gif_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="get up mix!"
+            android:fontFamily="@font/popinsbold"
+            android:layout_gravity="center|bottom"
+            android:layout_marginBottom="100dp"
+            android:textColor="@color/white"
+            android:textSize="25dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tempo Tune Music"
+            android:fontFamily="@font/popinsregular"
+            android:layout_gravity="center|bottom"
+            android:layout_marginBottom="70dp"
+            android:textColor="@color/white"
+            android:textSize="22dp"/>
+
+        <TextView
+            android:id="@+id/gif_subtitle"
+            android:padding="10dp"
+            android:layout_marginHorizontal="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:fontFamily="@font/popinsregular"
+            android:text="Weather it is Monday morning or Friday night, get going with this personlized mix of upbeat music"
+            android:layout_gravity="bottom"/>
+
+
+
+
+    </FrameLayout>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/MFU_detail_recyclerview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_margin="5dp"/>
+    </LinearLayout>
+
+
+
+
+
+    </ScrollView>
+
+</FrameLayout>

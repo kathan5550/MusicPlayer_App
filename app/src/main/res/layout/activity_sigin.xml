@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignUp.Sigin_activity"
+    android:padding="16dp"
+    android:background="@color/DarkBlue"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome Back"
+        android:fontFamily="@font/popinsbold"
+        android:textSize="30dp"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/white"/>
+    <com.google.android.material.divider.MaterialDivider
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="-3dp"
+        app:dividerColor="@color/white"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:gravity="center"
+        android:layout_marginTop="100dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/sigin_Email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:background="@drawable/round_shape"
+            android:drawableLeft="@drawable/baseline_email_24"
+            android:hint="Email Address"
+            android:drawablePadding="8dp"
+            android:padding="14dp"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/sigin_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/round_shape"
+            android:drawableLeft="@drawable/baseline_lock"
+            android:hint="Password"
+            android:drawablePadding="8dp"
+            android:padding="14dp"
+            android:textColor="@color/black" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="20dp"/>
+
+        <Button
+            android:id="@+id/btn_Login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/blue"
+            android:drawableRight="@drawable/baseline_arrow"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:text="Login"
+            android:textSize="20dp" />
+
+        <ProgressBar
+            android:id="@+id/progressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:indeterminateTint="@color/white"
+            android:visibility="gone" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="20dp"/>
+        <TextView
+            android:id="@+id/GoToSignup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Don't have an account?"
+            android:textColor="@color/white"
+            android:gravity="center"/>
+
+
+
+
+
+
+
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SongListActivity"
+    android:orientation="vertical"
+    android:background="@color/DarkBlue"
+    android:layout_gravity="center_horizontal">
+
+
+
+    <ImageView
+        android:id="@+id/song_list_image"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/song_list_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="English"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/headline_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="7dp"
+        android:fontFamily="@font/popinsregular"
+        android:maxLines="@integer/material_motion_duration_long_2"
+        android:text="Enjoy the Classical Music"
+        android:textColor="@color/white"
+        android:textSize="12dp"
+        android:textStyle="normal"
+        tools:ignore="TextSizeCheck" />
+
+    <com.google.android.material.divider.MaterialDivider
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="10dp"
+        app:dividerColor="@color/white"
+        android:layout_marginHorizontal="10dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Top Songs"
+            android:textColor="@color/white"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/baseline_arrow"/>
+    </LinearLayout>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/song_list_Recyclerview"
+        android:layout_margin="5dp"/>
+
+</LinearLayout>

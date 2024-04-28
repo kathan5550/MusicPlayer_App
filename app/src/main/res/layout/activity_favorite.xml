@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/DarkBlue"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".FavoriteActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Favorite Songs"
+        android:textSize="25dp"
+        android:layout_marginLeft="-3dp"
+        android:fontFamily="@font/popinsbold"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:gravity="center"/>
+
+
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/favsong"
+        android:scaleType="fitXY"
+        android:layout_height="200dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Recently Added"
+        android:textColor="@color/white"
+        android:fontFamily="@font/popinsregular"
+        android:textSize="23sp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="9dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginHorizontal="5dp"
+        android:background="#A8D6D4D4"/>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/favorite_recyclerView"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>
